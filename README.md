@@ -1,6 +1,6 @@
 This is my Demo repository
 <br>
-Author- Soumya Ranjan## Hi there 👋
+Author- Soumya Ranjan
 
 <!--
 **Soumyaranjan2810/Soumyaranjan2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
